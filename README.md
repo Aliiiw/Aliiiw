@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kotlin and other things in Mobile field**
 
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/alii-rahimi/")
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Ali Rahimi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alii-rahimi/)
 
 
 
@@ -26,7 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
     
-  <img src="https://inlab.fib.upc.edu/sites/default/files/field/image/django-rest-framework.jpg" title="Django Rest" alt="Django Rest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -36,8 +35,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliiiw&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiiw&theme=dark&background=000000&show_icons=true&locale=en" alt="aliiiw" /></p>
