@@ -2,22 +2,17 @@
 <h1 align="center">Hi 👋, I'm Ali Rahimi</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on **Mobile Development**
-
-- 🌱 I’m currently learning **Kotlin and other things in Mobile field**
-
-- 📫 How to reach me <a href="https://www.linkedin.com/in/alii-rahimi/" target="_blank"
-        ><img
-          align="center"
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="ali-rahimi"
-      /></a>
+# 💫 About Me:
+🔭 I’m currently working on Android Mobile Development at Gandom<br>🌱 I’m currently learning Kotlin and other things in Mobile field that are cool
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alii-rahimi) 
 
 
     
-### :hammer_and_wrench:  Languages and Tools :
+# 💻 Tech Stack:
+
 <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -37,11 +32,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliiiw&theme=nightowl)](https://git.io/streak-stats)
 
-        
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiiw&show_icons=true&theme=nightowl&locale=en" alt="aliiiw" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aliiiw&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliiiw&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliiiw&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
