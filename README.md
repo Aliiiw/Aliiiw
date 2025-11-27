@@ -3,7 +3,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Android Mobile Development at Gandom<br>🌱 I’m currently learning Kotlin and other things in Mobile field that are cool
+🔭 I’m currently looking for new opportunity in Mobile Development<br>🌱 I’m currently learning Kotlin and other things in Mobile field that are cool
 
 
 ## 🌐 Socials:
