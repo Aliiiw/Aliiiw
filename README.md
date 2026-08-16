@@ -1,144 +1,144 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ali%20Rahimi&fontSize=90&fontAlignY=35&desc=Senior%20Android%20Developer&descAlignY=55&descSize=25&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ali%20Rahimi&fontSize=90&fontAlignY=35&desc=Android%20Software%20Engineer%20%7C%20Kotlin%20%26%20Jetpack%20Compose&descAlignY=55&descSize=22&animation=fadeIn)
 
 <div align="center">
-  
-### 🚀 Building Scalable & Secure Android Applications
-  
+
+### Building reliable Android products with Kotlin, Jetpack Compose, and modular architecture
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alirahimi.dev-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirahimi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alii-rahimi)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliirahimioriginal@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Strasbourg%2C%20France-00C853?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-France-00C853?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
+
 ```kotlin
-val aliRahimi = AndroidDeveloper(
+val aliRahimi = AndroidSoftwareEngineer(
     experience = "4+ years",
-    specialization = "Fintech & Secure Mobile Applications",
-    currentFocus = listOf(
+    focus = listOf(
+        "Kotlin",
         "Jetpack Compose",
         "Kotlin Multiplatform",
         "Clean Architecture",
-        "MVI/MVVM Patterns"
+        "MVVM / MVI"
     ),
-    passions = listOf(
-        "Problem Solving",
-        "Code Quality",
-        "Team Mentorship",
-        "Innovation"
+    background = listOf(
+        "Fintech platforms",
+        "Cross-border e-commerce",
+        "Consumer mobile products",
+        "Legacy Android modernization"
+    ),
+    values = listOf(
+        "Reliable releases",
+        "Maintainable architecture",
+        "Product ownership",
+        "Team mentorship"
     )
 )
 ```
 
-🔭 **Currently:** Seeking opportunities to build cutting-edge mobile experiences  
-🌱 **Learning:** Advanced KMP patterns and modern Android development best practices  
-💡 **Philosophy:** Write code that's not just functional, but maintainable and scalable  
-🎓 **Background:** CS Graduate from Shiraz University | Former Head TA for 100+ students
+Currently building Android products with **Kotlin, Jetpack Compose, KMP, Clean Architecture, Coroutines, Flow, Room, Retrofit, and modern release practices**.
+
+Based in **France** and open to Android Software Engineer roles, remote work, and relocation.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### **Core Android Development**
+### Core Android
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Architecture & Patterns**
+### Architecture
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00897B?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-6200EA?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/MVI-FF6F00?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-FF4081?style=for-the-badge)
 ![Koin](https://img.shields.io/badge/Koin-FF9800?style=for-the-badge)
 
-### **Asynchronous Programming**
+### Data, Networking & Async
 ![Coroutines](https://img.shields.io/badge/Coroutines-00BCD4?style=for-the-badge)
 ![Flow](https://img.shields.io/badge/Flow-009688?style=for-the-badge)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge)
-
-### **Networking & Data**
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-3E4348?style=for-the-badge)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Paging 3](https://img.shields.io/badge/Paging%203-3DDC84?style=for-the-badge)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge)
 
-### **Testing & Quality**
+### Quality, Release & Monitoring
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78909C?style=for-the-badge)
 ![MockK](https://img.shields.io/badge/MockK-5C6BC0?style=for-the-badge)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
-### **Tools & Collaboration**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 💼 Professional Highlights
-
-### 🏦 **Fintech Expertise @ Gandom Company** (Sep 2023 – Dec 2025)
-- Architected **mission-critical Fintech applications** using **Kotlin, MVI/MVVM, and Clean Architecture**
-- Built **reusable Jetpack Compose component library** that accelerated development cycles
-- Optimized **real-time data flows** for market analysis using **Flow and Coroutines**
-- Led **multi-module architecture transition** with KMP readiness
-- Implemented **offline-first strategies** for seamless financial data access
-- **Mentored team members** through code reviews and technical documentation
-
-### 📱 **Previous Roles**
-- **Android Developer Intern @ TrueLearn** - Learning platform with Compose & MVVM
-- **Mobile Developer @ Tagfaa** - Logistics & tracking systems
-- **Software Engineer Intern @ uMind** - AI-powered mental health application
+### AI-Assisted Development
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
-## 🎓 Teaching & Leadership
+## Professional Highlights
 
-### 👨‍🏫 **Head Teaching Assistant @ Shiraz University** (Nov 2020 – Sep 2025)
+### Hamsaia — Android Software Engineer  
+**Apr 2026 – Present | Sweden, Remote**
 
-Led and mentored **100+ students** across multiple courses:
+- Owned Android delivery from architecture and development to Google Play launch within four months.
+- Built a modular Kotlin Multiplatform codebase with Kotlin, Jetpack Compose, Clean Architecture, and MVVM/MVI.
+- Delivered 10+ production screens across product discovery, cart, checkout, and payments.
+- Improved build time by about 10% and strengthened crash monitoring and logging.
 
-- 📱 **Android Programming** (Lead TA)
-- 🏗️ **Software Design & Architecture** (Lead TA)
-- ☕ **Object-Oriented Programming (Java)**
-- 🔧 **Advanced Programming**
-- 💻 **Principles of Programming (C)**
-- 🖥️ **Computer Architecture (Verilog)**
-- 🐧 **Linux Environment Management**
+### Gandom Company — Android Software Engineer  
+**Sep 2023 – Dec 2025 | Tehran**
 
-**Special Contributions:**
-- Orchestrated specialized **Jetpack Compose & Kotlin workshop** for students and external developers
-- Directed technical sessions on **MVI, MVVM, MVP, and GoF Design Patterns**
-- Managed and supervised junior TAs, ensuring high-quality education delivery
+- Worked on four production Android apps in a fintech ecosystem serving about 5M users.
+- Supported platforms handling 4–6M daily transactions, API requests, and market-data operations.
+- Modernized legacy Java/XML apps to Kotlin, Jetpack Compose, Clean Architecture, MVVM/MVI, Coroutines, and Flow.
+- Improved performance by about 2x, reduced crashes by 40%, and decreased app size by 20%.
+- Built an investment-fund analytics app with 20+ feature areas, six chart types, Room, Paging 3, MPAndroidChart, and AnyChart.
+
+### Previous Roles
+
+- **Android Engineer @ TrueLearn** — EdTech products with Kotlin, Compose, Hilt, Room, Retrofit, and modular MVVM.
+- **Mobile Software Engineer @ Tagfaa** — Android/iOS customer-service and shipment-tracking apps for a logistics client with 300K+ customers.
+- **Software Engineer Intern @ uMind** — AI-assisted mental-health platform with Flutter, Django REST, PostgreSQL, and MongoDB.
 
 ---
 
-## 🎯 Current Goals
+## Teaching & Leadership
+
+### Head Teaching Assistant & Android Workshop Instructor  
+**Shiraz University | Sep 2021 – Sep 2025**
+
+- Mentored 100+ students across Android Programming, Software Design, HCI, OOP, and Programming Fundamentals.
+- Led TA teams, coordinated assignments, projects, and exams.
+- Delivered Android/Kotlin workshops, including a 12-hour workshop for around 70 participants.
+
+---
+
+## Current Focus
+
 ```kotlin
-val currentGoals = listOf(
-    "🔍 Seeking Senior Android Developer opportunities",
-    "🌍 Open to positions in Europe (Germany, France, Switzerland)",
-    "📚 Deepening Kotlin Multiplatform expertise",
-    "🚀 Contributing to open-source Android projects",
-    "🤝 Building meaningful connections in the Android community"
+val currentFocus = listOf(
+    "Building reliable Android apps with Kotlin and Jetpack Compose",
+    "Deepening Kotlin Multiplatform architecture patterns",
+    "Improving release quality, monitoring, and performance",
+    "Growing through product-focused mobile engineering teams"
 )
 ```
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect
 
-I'm always interested in discussing:
-- 🏗️ Android architecture best practices
-- 🎨 Jetpack Compose patterns
-- 🔧 Code quality and maintainability
-- 💼 Career opportunities in mobile development
+I'm always happy to talk about Android architecture, Jetpack Compose, Kotlin, fintech mobile products, and engineering opportunities.
 
-**Reach out:** [aliirahimioriginal@gmail.com](mailto:aliirahimioriginal@gmail.com)  
+**Portfolio:** [alirahimi.dev](https://alirahimi.dev)  
+**Email:** [aliirahimioriginal@gmail.com](mailto:aliirahimioriginal@gmail.com)  
 **LinkedIn:** [linkedin.com/in/alii-rahimi](https://linkedin.com/in/alii-rahimi)
-
----
