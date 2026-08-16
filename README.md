@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ali%20Rahimi&fontSize=90&fontAlignY=35&desc=Android%20Software%20Engineer%20%7C%20Kotlin%20%26%20Jetpack%20Compose&descAlignY=55&descSize=22&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ali%20Rahimi&fontSize=90&fontAlignY=35&desc=Android%20Software%20Engineer&descAlignY=55&descSize=25&animation=fadeIn)
 
 <div align="center">
 
 ### Building reliable Android products with Kotlin, Jetpack Compose, and modular architecture
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-alirahimi.dev-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirahimi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alii-rahimi)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliirahimioriginal@gmail.com)
